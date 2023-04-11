@@ -31,4 +31,4 @@ This menu was made for demonstrative purposes only.<br>
 Questo menù è stato realizzato solo a scopo dimostrativo.
 
 
-## The name for this menu was inspired by GTA V Mod Menus Recovery Options lol.
+## The name of this menu was inspired by GTA V Mod Menus Recovery Options lol.
