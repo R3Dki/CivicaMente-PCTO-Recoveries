@@ -11,11 +11,16 @@ It's quite simple, you just have to look at the bottom of the page and locate a 
 ### IT<br>
 Come capisco se il test è stato fatto da CivicaMente?<br>
 E' veramente semplice, basta cercare la scritta "Copyright 2XXX© CivicaMente Srl | Dati societari | Privacy policy - Cookie policy" nella parte inferiore della pagina, se la trovi puoi usare il menù.<br>
-## 2) Activate the menu.
+## 2A) Activate the menu.
 ### EN<br>
 In order to activate the menu you have to be in a Test's page and open the console(by pressing F12), then you simply have to copy and paste the contents of the file "Menu.js"(you can find it here: https://raw.githubusercontent.com/R3Dki/CivicaMente-PCTO-Recoveries/main/Menu.js) in the console and press enter.
 ### IT<br>
 Per attivare il menù devi essere dentro la pagina di un Test e aprire la console(premendo F12), dopodiché ti basta copiare e incollare dentro la console il contenuto del file "Menu.js"(lo puoi trovare quì: https://raw.githubusercontent.com/R3Dki/CivicaMente-PCTO-Recoveries/main/Menu.js) e premere invio.
+## 2B) Use the one liner instant complete.
+### EN<br>
+You just need to open the console and execute the contents of https://raw.githubusercontent.com/R3Dki/CivicaMente-PCTO-Recoveries/main/CompleteOneLiner.js
+### IT<br>
+Basta semplicemente aprire la console ed eseguire i contenuti di https://raw.githubusercontent.com/R3Dki/CivicaMente-PCTO-Recoveries/main/CompleteOneLiner.js
 <br><br><br><br><br>
 # Disclaimer
 ### EN
