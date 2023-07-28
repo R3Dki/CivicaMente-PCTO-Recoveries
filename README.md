@@ -4,7 +4,7 @@ Manipulate everything in the PCTO Tests made by CivicaMente.
 ### IT<br>
 Manipola tutto nei Test dei PCTO creati da CivicaMente.<br>
 # Guide
-## 1) Find if you can use the menu.
+## 1) Find out if you can use the menu.
 ### EN<br>
 How do i know if a test was made by CivicaMente?<br>
 It's quite simple, you just have to look at the bottom of the page and locate a text that contains "Copyright 2XXX© CivicaMente Srl | Dati societari | Privacy policy - Cookie policy", if you find it you can use the Menu.
